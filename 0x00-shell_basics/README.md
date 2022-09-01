@@ -1,1 +1,1 @@
-My second readme for shell basics
+Display the contents list of the current directory
