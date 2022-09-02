@@ -1,1 +1,1 @@
-creat a script that copie all the html file from the current workng directory to the parent of the working directory
+creat a script that moves all the files beginning with uppercase letter to the directory /tmp/u
