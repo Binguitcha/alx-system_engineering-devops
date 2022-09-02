@@ -1,1 +1,1 @@
-write the script that list all files(even one of names beguinning a periode caracter, which are normaly hidden)in the current directory and the parent of the working directory and the /boot directory (in this order), in long format
+script that print the type of the file named iamafile. the file will be iama will be in /tmp directory
