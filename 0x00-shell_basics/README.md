@@ -1,1 +1,1 @@
-script that print the type of the file named iamafile. the file will be iama will be in /tmp directory
+create a symbolic link to /bin/ls named _ls_
