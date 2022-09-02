@@ -1,1 +1,1 @@
-Write a script that changes the working directory to the previous one
+write the script that list all files(even one of names beguinning a periode caracter, which are normaly hidden)in the current directory and the parent of the working directory and the /boot directory (in this order), in long format
