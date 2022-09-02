@@ -1,1 +1,1 @@
-creat a script that moves all the files beginning with uppercase letter to the directory /tmp/u
+Script that deletes all files in current working directory that end with the character ~
